@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\_Script\Movement.cs" />
     <Compile Include="Assets\_Script\Spawner.cs" />
+    <Compile Include="Assets\_Script\TestForBranch.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/vasaevch/Desktop/Testing_Unity_Project/SakutinKurs/Unity Базовый/EnemyGenerationOnLevel/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
