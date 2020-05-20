@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{ADFF5295-DA5E-9309-D8FF-B475C6459724}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Script/Spawner.cs">
+    <Files>
+      <File FileName="Assets/_Script/Spawner.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnemyGenerationOnLevel" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Script" expanded="True">
+                <Node name="Spawner.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b5d6c0aa-4fb0-4b9b-8d4b-65909c9562ce" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
