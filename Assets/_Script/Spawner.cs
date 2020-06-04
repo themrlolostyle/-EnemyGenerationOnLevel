@@ -11,8 +11,7 @@ public class Spawner : MonoBehaviour
 
     private void Start()
     {
-        //tesct coment
-        //tst2
+        ///dadadadadada
         _spawnPoints = new Transform[transform.childCount];
 
         for (int i = 0; i < _spawnPoints.Length; i++)
